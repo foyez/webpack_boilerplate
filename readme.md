@@ -139,3 +139,12 @@ module.exports = {
   devtool: "source-map"
 };
 ```
+
+## package.json
+
+```
+lodash: "4.17.4" - install exact version
+lodash: "^4.17.4" - install latest minor version
+lodash: "~4.17.4" - install latest patch version
+lodash: "*" - install absolute latest version
+```
