@@ -148,3 +148,7 @@ lodash: "^4.17.4" - install latest minor version
 lodash: "~4.17.4" - install latest patch version
 lodash: "*" - install absolute latest version
 ```
+
+### Semantic Versioning
+
+![Semantic Versioning](semantic-versioning.jpg)
